@@ -1,0 +1,1 @@
+alert('Humper Pstyra to CW i NIG! Nic nie pomaga taki to kolega i CH')

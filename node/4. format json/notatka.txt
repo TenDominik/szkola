@@ -1,0 +1,25 @@
+json to format do przechowywania i przesyłania danych , najczęściej używany 
+do wysyłania danych z serwera na stronę internetową.
+json(ang. JavaScript Object Notation).
+json to lekki format wymiany danych niezależny od języka.
+Składnia json wywodzi się ze składni notacji obiektów JavaScript, ale format
+json to tylko tekst. Kod do odczytu i generowania danych json można 
+napisać w dowolnym języku programowania
+
+reguły zapisywania json:
+-dane są przechowywane w parach nazwa, wartość,
+-dane są oddzielone przecinkami
+-nawiasy klamrowe "trzymają" obiekty
+-nawiasy kwadratowe zawierają tablice
+
+np.
+---------------------------------------------------------------------------------
+{
+    "pracownicy":
+    [
+        {"imie":"Jan","nazwisko":"Kowalski"},
+        {"imie":"Marcin","nazwisko":"chołota"},
+        {"imie":"Humpert","nazwisko":"Pstyra"}
+    ]
+}
+---------------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+{"pracownicy":
+    [
+    {"pracownik":
+    {
+        "imie":"Humpert",
+        "nazwisko":"Pstyra",
+        "adresy":
+            [
+                "Tereszpol Kukiełki 98",
+                "Biłgoraj ul. T.Kościuszki 17"
+            ],
+        "telefony":
+            [
+                "695-695-130",
+                "444-444-444"
+            ]
+    }},
+    {"pracownik1":
+    {
+    "imie":"Hrumbert",
+    "nazwisko":"Bzdyrkownikov",
+    "adresy":
+        [
+            "moskwa ul.wolnosci narodowej 5",
+            "Biłgoraj ul. T.Kościuszki 18"
+        ],
+    "telefony":
+        [
+            "213-742-069",
+            "123-456-789"
+        ]
+    }}
+]
+    
+
+
+}

@@ -1,0 +1,12 @@
+moduł w node js jest elementem który można wykorzystać we własnym projekcie-
+raz zaimportowany może być używany wielokrotnie. każdy moduł ma własny zakres 
+co sprawia że kod zdefiniowany w module nie jest dostępny poza nim.
+
+klasyfikacja modułów:
+-wbudowanie (dostarczane wraz z node js)
+-zewnętrzne (rozwijane i tworzone przez niezależnych programistów)
+-własne (napisane przez użytkownika)
+
+moduły w node js należy trktować jako pełnoprawne aplikacje a takrze biblioteki
+czy frameworki dlatego aby można było użyć modułu trzeba go zaimportować.
+służy do tego funkcja require.

@@ -1,0 +1,19 @@
+<body>
+    <p></p>
+    <script>
+        let lista =
+        '{"pracownicy":['+
+        '{"imie":"Jan","nazwisko":"Kowalski"},'+
+        '{"imie":"Marcin","nazwisko":"chołota"},'+
+        '{"imie":"Humpert","nazwisko":"Pstyra"}]}';
+
+        const pracofnicy = JSON.parse(lista);
+
+        let obiekty='';
+        for(let i=0;i<pracofnicy.pracownicy.length;i++)
+        {
+            obiekty+=pracofnicy.pracownicy[i].imie+" "+pracofnicy.pracownicy[i].nazwisko+'<br>';
+        }
+        document.querySelector('p').innerHTML=obiekty;
+    </script>
+</body>

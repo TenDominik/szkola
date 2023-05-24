@@ -1,0 +1,5 @@
+node.js to otwarte wieloplatformowe środowisko uruchomieniowe dla apk napisanych w języku java script.
+Dzięki wykorzystaniu silnika V8 pozwala tworzyć aploikacje uruchomieniowe poza przeglądarką na komputerze lub serwerze.
+
+jak zbudowany jest node.js?
+V8 + C++ + JS

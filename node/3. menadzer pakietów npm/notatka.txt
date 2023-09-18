@@ -1,6 +1,0 @@
-za pobanie i instalację paczek w środowisku node odpowiada narzędzie npm
-(ang. node package menager) liczba pakietów do pobrania przekracza milion.
-funkcjonalności wielu z nich pokrywają się a problemem jest wybór
-tego który oferuje najwięcej.ułatwia to wyszukiwarka o nazwie npmjs.com.
-najłatwiej jest kierować się popularnością pakietu, częstotliwością 
-jego aktualizacji oraz jakością dokumentacji.

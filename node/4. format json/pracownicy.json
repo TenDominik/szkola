@@ -1,8 +1,0 @@
-{
-    "pracownicy":
-    [
-        {"imie":"Jan","nazwisko":"Kowalski"},
-        {"imie":"Marcin","nazwisko":"chołota"},
-        {"imie":"Humpert","nazwisko":"Pstyra"}
-    ]
-}
